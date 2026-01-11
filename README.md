@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/palzina/quetdec/releases">
-    <img src="https://img.shields.io/github/v/release/palzina/quetdec" alt="GitHub Release"/>
+  <a href="https://github.com/polius/split/releases">
+    <img src="https://img.shields.io/github/v/release/polius/split" alt="GitHub Release"/>
   </a>
-  <a href="https://hub.docker.com/r/palzina/split">
-    <img src="https://img.shields.io/docker/pulls/palzina/split" alt="Docker Pulls"/>
+  <a href="https://hub.docker.com/r/poliuscorp/split">
+    <img src="https://img.shields.io/docker/pulls/poliuscorp/split" alt="Docker Pulls"/>
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/palzina/quetdec" alt="License"/>
+    <img src="https://img.shields.io/github/license/polius/split" alt="License"/>
   </a>
 </p>
 
