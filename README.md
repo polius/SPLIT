@@ -1,19 +1,13 @@
 # SPLIT
 
 <p align="center">
-  <img src="src/icon.svg" alt="Split Logo" width="120"/>
+  <img src="src/icon.svg" alt="SPLIT Logo" width="120"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/polius/split/releases">
-    <img src="https://img.shields.io/github/v/release/polius/split" alt="GitHub Release"/>
-  </a>
-  <a href="https://hub.docker.com/r/poliuscorp/split">
-    <img src="https://img.shields.io/docker/pulls/poliuscorp/split" alt="Docker Pulls"/>
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/polius/split" alt="License"/>
-  </a>
+  <a href="https://github.com/polius/split/releases"><img src="https://img.shields.io/github/v/release/polius/split" alt="GitHub Release"/></a>
+  <a href="https://hub.docker.com/r/poliuscorp/split"><img src="https://img.shields.io/docker/pulls/poliuscorp/split" alt="Docker Pulls"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/polius/split" alt="License"/></a>
 </p>
 
 <p align="center">
@@ -22,11 +16,9 @@
 
 ---
 
-## How It Works
-
-1. **Add People** - Enter names and amounts each person paid
-2. **Calculate** - Click the calculate button to see who owes what
-3. **Settle Up** - The app shows the optimal payment transactions to balance all debts
+<p align="center">
+  <img src="assets/screenshot.png" alt="SPLIT Screenshot"/>
+</p>
 
 ## Features
 
