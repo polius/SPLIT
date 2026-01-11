@@ -1,0 +1,32 @@
+{
+  "ca": {
+    "title": "Què et dec?",
+    "namePlaceholder": "Nom",
+    "amountPlaceholder": "Import",
+    "addPersonButton": "Afegir persona",
+    "calculateButton": "Calcular",
+    "summaryTitle": "Resum de Pagaments",
+    "needsToPay": "ha de pagar:",
+    "balancedMessage": "No hi ha deutes!"
+  },
+  "es": {
+    "title": "¿Qué te debo?",
+    "namePlaceholder": "Nombre",
+    "amountPlaceholder": "Importe",
+    "addPersonButton": "Añadir persona",
+    "calculateButton": "Calcular",
+    "summaryTitle": "Resumen de Pagos",
+    "needsToPay": "debe pagar:",
+    "balancedMessage": "¡No hay deudas!"
+  },
+  "en": {
+    "title": "What do I owe you?",
+    "namePlaceholder": "Name",
+    "amountPlaceholder": "Amount",
+    "addPersonButton": "Add person",
+    "calculateButton": "Calculate",
+    "summaryTitle": "Payment Summary",
+    "needsToPay": "needs to pay:",
+    "balancedMessage": "Everything is settled!"
+  }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="512" height="512" fill="url(#bgGradient)" rx="80"/>
+  
+  <!-- White circle -->
+  <circle cx="256" cy="256" r="180" fill="white" opacity="0.95"/>
+  
+  <!-- Top arrow pointing left -->
+  <g stroke="#667eea" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 320 220 L 192 220"/>
+    <path d="M 192 220 L 220 192"/>
+    <path d="M 192 220 L 220 248"/>
+  </g>
+  
+  <!-- Bottom arrow pointing right -->
+  <g stroke="#764ba2" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 192 292 L 320 292"/>
+    <path d="M 320 292 L 292 264"/>
+    <path d="M 320 292 L 292 320"/>
+  </g>
+</svg>
