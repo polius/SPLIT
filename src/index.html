@@ -4,17 +4,30 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SPLIT: Què et dec?</title>
+  <link rel="icon" type="image/png" href="icon.png">
   <link rel="icon" type="image/svg+xml" href="icon.svg">
+  
+  <!-- iOS Safari -->
+  <link rel="apple-touch-icon" href="icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="SPLIT">
+  
   <link rel="stylesheet" href="styles.css">
   <script src="config.js"></script>
 </head>
 <body>
-  <div class="logo-container">
+  <div style="text-align: center;">
+    <div class="logo-container" style="cursor: pointer;" onclick="window.location.href='/'">
       <img src="icon.svg" alt="Split Logo" class="logo">
-      <span class="logo-text">SPLIT</span>
+      <div class="logo-text-container">
+        <span class="logo-text">SPLIT</span>
+        <span class="logo-version">v.1.1.0</span>
+      </div>
     </div>
-    
-    <div class="container">
+  </div>
+  
+  <div class="container">
     <div class="header-controls">
       <div class="language-selector">
         <button class="lang-btn" data-lang="en">EN</button>

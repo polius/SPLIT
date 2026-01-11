@@ -70,7 +70,7 @@ body {
 }
 
 .logo-container {
-  display: flex;
+  display: inline-flex;
   justify-content: center;
   align-items: center;
   gap: 0.75rem;
@@ -87,11 +87,25 @@ body {
 
 .logo-text {
   color: var(--text-color-heading);
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 1.75rem;
+  font-weight: 700;
   letter-spacing: 0.15em;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
   text-transform: uppercase;
+}
+
+.logo-text-container {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.25rem;
+}
+
+.logo-version {
+  color: var(--text-color-heading);
+  font-size: 0.75rem;
+  font-weight: 600;
+  opacity: 0.8;
+  padding-bottom: 0.15rem;
 }
 
 .header-controls {
