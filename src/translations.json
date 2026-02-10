@@ -5,9 +5,20 @@
     "amountPlaceholder": "Import",
     "addPersonButton": "Afegir persona",
     "calculateButton": "Calcular",
+    "resetButton": "Reiniciar",
     "summaryTitle": "Resum de Pagaments",
     "needsToPay": "ha de pagar:",
-    "balancedMessage": "No hi ha deutes!"
+    "balancedMessage": "No hi ha deutes!",
+    "totalSpent": "Total gastat",
+    "perPerson": "Per persona",
+    "transactions": "Transaccions",
+    "copySummary": "Copiar",
+    "copied": "Copiat!",
+    "shareSummary": "Compartir",
+    "contributions": "Contribucions",
+    "overpaid": "ha pagat de més",
+    "underpaid": "deu",
+    "onTrack": "just"
   },
   "es": {
     "title": "¿Qué te debo?",
@@ -15,9 +26,20 @@
     "amountPlaceholder": "Importe",
     "addPersonButton": "Añadir persona",
     "calculateButton": "Calcular",
+    "resetButton": "Reiniciar",
     "summaryTitle": "Resumen de Pagos",
     "needsToPay": "debe pagar:",
-    "balancedMessage": "¡No hay deudas!"
+    "balancedMessage": "¡No hay deudas!",
+    "totalSpent": "Total gastado",
+    "perPerson": "Por persona",
+    "transactions": "Transacciones",
+    "copySummary": "Copiar",
+    "copied": "¡Copiado!",
+    "shareSummary": "Compartir",
+    "contributions": "Contribuciones",
+    "overpaid": "ha pagado de más",
+    "underpaid": "debe",
+    "onTrack": "justo"
   },
   "en": {
     "title": "What do I owe you?",
@@ -25,8 +47,19 @@
     "amountPlaceholder": "Amount",
     "addPersonButton": "Add person",
     "calculateButton": "Calculate",
+    "resetButton": "Reset",
     "summaryTitle": "Payment Summary",
     "needsToPay": "needs to pay:",
-    "balancedMessage": "Everything is settled!"
+    "balancedMessage": "Everything is settled!",
+    "totalSpent": "Total Spent",
+    "perPerson": "Per Person",
+    "transactions": "Transactions",
+    "copySummary": "Copy",
+    "copied": "Copied!",
+    "shareSummary": "Share",
+    "contributions": "Contributions",
+    "overpaid": "overpaid",
+    "underpaid": "owes",
+    "onTrack": "even"
   }
 }
