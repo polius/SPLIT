@@ -17,16 +17,19 @@
 ---
 
 <p align="center">
-  <img src="assets/screenshot.png?version=1.2.0" alt="SPLIT Screenshot"/>
+  <img src="assets/screenshot.png?version=2.0.0" alt="SPLIT Screenshot"/>
 </p>
 
 ## Features
 
+- 🔀 **Minimal settlements** - Computes the fewest transfers needed to settle the group
 - 🌍 **Multi-language support** - Available in English, Spanish and Catalan
 - 💰 **Customizable currency** - Configure your preferred currency symbol and position
+- 🔢 **Locale-friendly input** - Accepts both `12.50` and `12,50`
+- 💾 **Stays put** - Entries are kept locally, so a refresh never loses your data
+- 🌗 **Light & dark themes** - Follows your system preference, with a manual toggle
 - 📱 **Responsive design** - Works seamlessly on desktop and mobile devices
-- 🎨 **Modern UI** - Clean, professional interface with smooth animations
-- ⚡ **Fast & Lightweight** - No database required, runs entirely in the browser
+- ⚡ **Fast & Lightweight** - No database, no build step, runs entirely in the browser
 - 🐳 **Docker-ready** - Easy deployment with Docker
 
 ## Installation
