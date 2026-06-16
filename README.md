@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="assets/screenshot.png?version=2.0.1" alt="SPLIT Screenshot" width="420"/>
+  <img src="assets/screenshot.png?version=2.0.2" alt="SPLIT Screenshot" width="720"/>
 </p>
 
 ## Features
