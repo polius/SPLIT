@@ -1,7 +1,7 @@
 # SPLIT
 
 <p align="center">
-  <img src="src/icon.svg" alt="SPLIT Logo" width="120"/>
+  <img src="src/icon.svg" alt="SPLIT Logo" width="80"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="assets/screenshot.png?version=2.0.0" alt="SPLIT Screenshot"/>
+  <img src="assets/screenshot.png?version=2.0.1" alt="SPLIT Screenshot" width="420"/>
 </p>
 
 ## Features
